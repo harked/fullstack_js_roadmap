@@ -19,7 +19,9 @@ My own curriculum to become full-stack javascript developer
 - https://www.linkedin.com/learning/paths/advance-your-nodejs-skills
 
 ## Week 5-6 (Mastering NodeJS Framework - ExpressJS/Hapi/Koa)
-- https://courses.csail.mit.edu/6.006/fall11/notes.shtml 
+- https://expressjs.com/
+- https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs
+- https://www.youtube.com/watch?v=G8uL0lFFoN0
 
 ## Week 7 (Mastering Testing Framework - Jest/Mocha/Chai)
 - https://www.linkedin.com/learning/paths/become-a-software-tester
