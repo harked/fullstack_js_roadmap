@@ -72,6 +72,7 @@ My own curriculum to become full-stack javascript developer
 - https://docs.gitlab.com/ee/ci/
 - https://www.digitalocean.com/community/tutorials/an-introduction-to-continuous-integration-delivery-and-deployment
 - https://aws.amazon.com/getting-started/projects/set-up-ci-cd-pipeline/
+- https://labs.play-with-docker.com/
 
 
 ## Week 18-19 (Mastering Cloud Computing - GCP/AWS)
