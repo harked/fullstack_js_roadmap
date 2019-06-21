@@ -88,3 +88,4 @@ My own curriculum to become full-stack javascript developer
 - https://www.coursera.org/learn/algorithms-part2
 - https://www.udemy.com/js-algorithms-and-data-structures-masterclass
 - https://www.udemy.com/master-the-coding-interview-data-structures-algorithms
+- https://www.techseries.dev
